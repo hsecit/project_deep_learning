@@ -1,0 +1,11 @@
+{
+  "name": "project_ai",
+  "version": "1.0.0",
+  "description": "tutorial for teserflow",
+  "main": "index.js",
+  "author": "hamza ezzourguane",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.5.0"
+  }
+}
