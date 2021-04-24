@@ -6,6 +6,7 @@
   "author": "hamza ezzourguane",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs": "^3.5.0"
+    "@tensorflow/tfjs": "^3.5.0",
+    "bootstrap": "^4.6.0"
   }
 }
